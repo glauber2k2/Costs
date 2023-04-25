@@ -22,10 +22,6 @@ export default function Navbar() {
           </li>
 
           <li className={styles.item}>
-            <Link to="/newproject">Novos Projetos</Link>
-          </li>
-
-          <li className={styles.item}>
             <Link to="/company">Empresa</Link>
           </li>
 
